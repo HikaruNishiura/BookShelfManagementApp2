@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BookShelfManagementApp2",
   "resources": {
-    "hash": "sha256-eCx4pcuqeCa02nvyivgRP57PILSL8n+t3SuWxmXIuzk=",
+    "hash": "sha256-AuboTKqDSIUHoWWg4A7+pxEFV1242BGkfB0iR/FxYhc=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-1QpKPnxEuRCElzcp+e3MrovJeAJkuzqKmRQay/6Aa08="
     },
@@ -111,7 +111,7 @@
       "System.wasm": "sha256-n/f5afy4u9cEBgTcizWUZ+dkLRFdsZkcUvyhNiEyiq8=",
       "netstandard.wasm": "sha256-6vA4F0EMcxETxaP9OX8KhSe5rW3JibE2AWMk2NFtfPw=",
       "System.Private.CoreLib.wasm": "sha256-ZHA3QAfd5HYFx+09ossgWjG3pTK1rx2H86YPgLosg2c=",
-      "BookShelfManagementApp2.wasm": "sha256-WBeDiXQ63P0djNcUtNWfLxSAdr5yY7yKQi+XJUClUIk="
+      "BookShelfManagementApp2.wasm": "sha256-66nEUWfYwouc/cjQxUWTx0ASVGS/MsHSVNFN3MA2vR4="
     }
   },
   "cacheBootResources": true,
